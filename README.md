@@ -57,5 +57,4 @@
 
 [![Crop Yeild Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sanketgit3345&repo=Crop_Yeild_Prediction&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://github.com/sanketgit3345/Crop_Yeild_Prediction)
 
-# Random meme for you #
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+
