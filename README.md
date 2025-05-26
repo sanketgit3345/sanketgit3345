@@ -1,4 +1,4 @@
-![Header](banner2.png)
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/sanket-444b01239/" target="_blank">
